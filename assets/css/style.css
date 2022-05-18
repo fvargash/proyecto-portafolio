@@ -1,0 +1,16 @@
+.container {
+    width: 100%;
+    border: 10px solid black;
+    text-align: center;
+}
+
+.container .datos-personales {
+    border: 10px solid pink
+}
+
+.container .contenido {
+    border: 10px solid yellow;
+}
+
+.container .img {
+}
