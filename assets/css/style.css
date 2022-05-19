@@ -1,16 +1,26 @@
 .container {
     width: 100%;
-    border: 10px solid black;
     text-align: center;
+    font-family: Lucida Bright, Georgia, serif;
+}
+
+.container h1,h3 {
+    font-family: impact;
+    font-size: ;
 }
 
 .container .datos-personales {
-    border: 10px solid pink
+
 }
 
 .container .contenido {
-    border: 10px solid yellow;
+
 }
 
-.container .img {
+.columna-1 {
+    background:#148480;
+}
+
+.container a {
+    color: #148480;
 }
