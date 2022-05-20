@@ -1,10 +1,9 @@
-.container {
-    width: 100%;
+.container-fluid {
     text-align: center;
     font-family: Lucida Bright, Georgia, serif;
 }
 
-.container h1,h3 {
+.container-fluid h1,h3 {
     font-family: impact;
 }
 
@@ -12,9 +11,9 @@
     background:#148480;
 }
 
-.container a {
+.container-fluid a {
     color: #148480;
 }
-.container td,tr,ul,li,p,a {
+.container-fluid td,tr,ul,li,p,a {
     padding: 5px;
 }
