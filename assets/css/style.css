@@ -17,3 +17,7 @@
 .container-fluid td,tr,ul,li,p,a {
     padding: 5px;
 }
+
+.custom-tooltip {
+    --bs-tooltip-bg: var(--bs-white);
+  }
